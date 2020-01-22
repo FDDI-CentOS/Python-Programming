@@ -1,4 +1,5 @@
 ''' Function to continually run code in second(s) interval'''
+# Wow that was cool
 import time
 import datetime
 
